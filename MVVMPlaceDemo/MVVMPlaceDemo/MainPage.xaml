@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMPlaceDemo.MainPage">
+
+    <ContentPage.Content>  
+        <StackLayout>  
+      
+            <Label Margin="0,0,0,10" Text="{Binding UserMessage}" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" ></Label>
+
+            <Label HorizontalTextAlignment="Center" x:Name="lblLatitude" Text="{Binding Latitude}"></Label>
+
+           <Label HorizontalTextAlignment="Center" x:Name="lblLongitude" Text="{Binding Longitude}"></Label>
+
+
+            <Button x:Name= "loginbtn" Text = "GET LOCATION "   
+                    Command="{Binding GetLocationCommand}"  
+                    HorizontalOptions = "FillAndExpand"/>
+
+
+
+           
+        </StackLayout>  
+    </ContentPage.Content>  
+
+</ContentPage>

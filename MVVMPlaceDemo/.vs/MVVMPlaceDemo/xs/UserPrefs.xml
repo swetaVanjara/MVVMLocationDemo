@@ -1,0 +1,73 @@
+﻿<Properties StartupConfiguration="{DAA93763-BF32-4405-8B2E-A49CDCADCD2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVVMPlaceDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F8B2010D-4EBC-48B1-97AB-8D18937ACB07" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="1679" Column="46" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo/MainPage.xaml.cs" Line="66" Column="48" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo/ViewModels/MainPageViewModel.cs" Line="26" Column="21" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo.Android/MainActivity.cs" Line="39" Column="1" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo/App.xaml.cs" Line="21" Column="4" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo.iOS/AppDelegate.cs" Line="10" Column="1" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo.Android/Properties/AndroidManifest.xml" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo.iOS/Main.cs" Line="19" Column="4" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo/MainPage.xaml" Line="18" Column="21" IsPinned="True" />
+      <File FileName="MVVMPlaceDemo/Services/Location.cs" Line="33" Column="9" />
+      <File FileName="MVVMPlaceDemo/Models/LocationMessage.cs" Line="10" Column="1" />
+      <File FileName="MVVMPlaceDemo/Models/LocationErrorMessage.cs" Line="1" Column="1" />
+      <File FileName="MVVMPlaceDemo/ViewModels/BaseViewModel.cs" Line="52" Column="1" />
+      <File FileName="MVVMPlaceDemo/Models/StartServiceMessage.cs" Line="1" Column="1" />
+      <File FileName="MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" Line="56" Column="22" />
+      <File FileName="MVVMPlaceDemo.Android/Services/AndroidLocationService.cs" Line="10" Column="20" />
+      <File FileName="MVVMPlaceDemo.Android/Helpers/INotification.cs" Line="1" Column="1" />
+      <File FileName="MVVMPlaceDemo.Android/Helpers/NotificationHelper.cs" Line="53" Column="1" />
+      <File FileName="MVVMPlaceDemo/MVVMPlaceDemo.csproj" />
+      <File FileName="MVVMPlaceDemo.Android/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="MVVMPlaceDemo.Android/Resources/AboutResources.txt" Line="23" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVVMPlaceDemo" expanded="True" selected="True">
+            <Node name="MVVMPlaceDemo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MVVMPlaceDemo.Android" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MVVMPlaceDemo.iOS" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVVMPlaceDemo.Android AndroidDesignerPreferredTheme="MainTheme" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" relfile="MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" line="30" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" relfile="MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" line="31" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" relfile="MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" line="30" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/ViewModels/MainPageViewModel.cs" relfile="MVVMPlaceDemo/ViewModels/MainPageViewModel.cs" line="23" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/AppDelegate.cs" relfile="MVVMPlaceDemo.iOS/AppDelegate.cs" line="21" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/AppDelegate.cs" relfile="MVVMPlaceDemo.iOS/AppDelegate.cs" line="20" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/AppDelegate.cs" relfile="MVVMPlaceDemo.iOS/AppDelegate.cs" line="37" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/AppDelegate.cs" relfile="MVVMPlaceDemo.iOS/AppDelegate.cs" line="42" column="1" />
+      <Breakpoint file="/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" relfile="MVVMPlaceDemo.iOS/Services/iOsLocationService.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
