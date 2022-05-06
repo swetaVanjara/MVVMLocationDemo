@@ -1,0 +1,17 @@
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/bin/Debug/netstandard2.0/MVVMPlaceDemo.deps.json
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/bin/Debug/netstandard2.0/MVVMPlaceDemo.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/bin/Debug/netstandard2.0/ref/MVVMPlaceDemo.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/bin/Debug/netstandard2.0/MVVMPlaceDemo.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.csproj.AssemblyReference.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.AssemblyInfoInputs.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.AssemblyInfo.cs
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.csproj.CoreCompileInputs.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/ref/MVVMPlaceDemo.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.csproj.Fody.CopyLocal.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo/obj/Debug/netstandard2.0/MVVMPlaceDemo.csproj.Fody.RuntimeCopyLocal.cache

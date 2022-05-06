@@ -1,11 +1,14 @@
 ﻿using System;
+using System.IO;
+using MVVMPlaceDemo.Helpers;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+
 
 namespace MVVMPlaceDemo
 {
     public partial class App : Application
     {
+     
         public App()
         {
             InitializeComponent();

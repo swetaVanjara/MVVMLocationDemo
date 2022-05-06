@@ -1,6 +1,8 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Diagnostics;
+using MVVMPlaceDemo.Helpers;
+using MVVMPlaceDemo.Interfaces;
 using MVVMPlaceDemo.Models;
 using Xamarin.Forms;
 
@@ -9,12 +11,14 @@ namespace MVVMPlaceDemo.ViewModels
     public class MainPageViewModel: BaseViewModel
     {
         #region vars
-        private double latitude;
-        private double longitude;
-        public string userMessage;
-        public bool startEnabled;
-        public bool stopEnabled;
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+        public string UserMessage { get; set; }
+        public bool StartEnabled { get; set; }
+        public bool StopEnabled { get; set; }
         #endregion vars
+
+        private ILocationStore _locationStore;
 
 
         public MainPageViewModel()
@@ -24,6 +28,7 @@ namespace MVVMPlaceDemo.ViewModels
             HandleReceivedMessages();
             StartEnabled = true;
             StopEnabled = false;
+            _locationStore = new SQLiteLocationStore(DependencyService.Get<ISQLiteDb>());
         }
 
         public void OnStartClick()
@@ -61,6 +66,8 @@ namespace MVVMPlaceDemo.ViewModels
                     Longitude = message.Longitude;
                     UserMessage = "Location Updated";
 
+                    addDataIntoDb(Latitude, Longitude);
+
                     Debug.WriteLine($"Latitude: {Latitude}, Longitude: {Longitude}, UserMessage: {UserMessage}");
                 });
             });
@@ -76,33 +83,15 @@ namespace MVVMPlaceDemo.ViewModels
             });
         }
 
-        #region properties
-        public double Latitude
+        private void addDataIntoDb(double lattitude,double longitude)
         {
-            get => latitude;
-            set => SetProperty(ref latitude, value);
+            LocationEntry location = new LocationEntry();
+            location.lat = lattitude;
+            location.lng = longitude;
+             _locationStore.AddLocation(location);
+
         }
-        public double Longitude
-        {
-            get => longitude;
-            set => SetProperty(ref longitude, value);
-        }
-        public string UserMessage
-        {
-            get => userMessage;
-            set => SetProperty(ref userMessage, value);
-        }
-        public bool StartEnabled
-        {
-            get => startEnabled;
-            set => SetProperty(ref startEnabled, value);
-        }
-        public bool StopEnabled
-        {
-            get => stopEnabled;
-            set => SetProperty(ref stopEnabled, value);
-        }
-        #endregion properties
+
 
         #region commands
         public Command StartCommand { get; }

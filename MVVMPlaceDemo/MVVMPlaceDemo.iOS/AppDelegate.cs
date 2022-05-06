@@ -22,7 +22,7 @@ namespace MVVMPlaceDemo.iOS
 
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
-            UIApplication.SharedApplication.SetMinimumBackgroundFetchInterval(UIApplication.BackgroundFetchIntervalMinimum);
+            //UIApplication.SharedApplication.SetMinimumBackgroundFetchInterval(UIApplication.BackgroundFetchIntervalMinimum);
 
 
 

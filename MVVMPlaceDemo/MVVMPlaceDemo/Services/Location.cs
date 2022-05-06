@@ -23,23 +23,29 @@ namespace MVVMPlaceDemo.Services
 					token.ThrowIfCancellationRequested();
 					try
 					{
-						await Task.Delay(2000);
+						await Task.Delay(1000);
 
-						var request = new GeolocationRequest(GeolocationAccuracy.High);
-						var location = await Geolocation.GetLocationAsync(request);
-						if (location != null)
+						Device.BeginInvokeOnMainThread(async () => 
 						{
-							var message = new LocationMessage
+							var request = new GeolocationRequest(GeolocationAccuracy.High);
+							var location = await Geolocation.GetLocationAsync(request);
+							if (location != null)
 							{
-								Latitude = location.Latitude,
-								Longitude = location.Longitude
-							};
+								var message = new LocationMessage
+								{
+									Latitude = location.Latitude,
+									Longitude = location.Longitude
+								};
 
-							Device.BeginInvokeOnMainThread(() =>
-							{
-								MessagingCenter.Send<LocationMessage>(message, "Location");
-							});
-						}
+								Device.BeginInvokeOnMainThread(() =>
+								{
+
+									MessagingCenter.Send<LocationMessage>(message, "Location");
+								});
+							}
+						});
+
+						
 					}
 					catch (Exception ex)
 					{

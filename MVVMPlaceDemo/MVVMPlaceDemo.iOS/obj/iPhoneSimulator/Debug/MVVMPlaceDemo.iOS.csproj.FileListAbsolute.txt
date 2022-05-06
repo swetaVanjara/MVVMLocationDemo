@@ -1,0 +1,72 @@
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.exe
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Plugin.LocalNotifications.Abstractions.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Plugin.LocalNotifications.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/MVVMPlaceDemo.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/MVVMPlaceDemo.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/actool/_PartialAppManifest.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/actool/_BundleResourceWithLogicalName.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/actool/_ProcessedImageAssetsPath.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/coremlc/_PartialAppManifest.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/_ProcessedBundleResourcesPath.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/_ProcessedContentPath.items
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.4/optimized/
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.csproj.AssemblyReference.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.csproj.CoreCompileInputs.cache
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.csproj.CopyComplete
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.exe
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/obj/iPhoneSimulator/Debug/MVVMPlaceDemo.iOS.pdb
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/shweta/Projects/MVVMPlaceDemo/MVVMPlaceDemo.iOS/bin/iPhoneSimulator/Debug/PropertyChanged.dll

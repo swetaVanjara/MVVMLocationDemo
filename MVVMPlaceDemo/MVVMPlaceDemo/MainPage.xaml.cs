@@ -23,22 +23,24 @@ namespace MVVMPlaceDemo
         MainPageViewModel mainPageViewModel;
         public MainPage()
         {
+
             mainPageViewModel = new MainPageViewModel();
             InitializeComponent();
             BindingContext = mainPageViewModel;
-            Device.StartTimer(TimeSpan.FromSeconds(10), () =>
-            {
-              //  GetCurrentLocation();
-                return true;
-            });
+            //Device.StartTimer(TimeSpan.FromSeconds(10), () =>
+            //{
+            //  //  GetCurrentLocation();
+            //    return true;
+            //});
         }
 
         protected async override void OnAppearing()
         {
             base.OnAppearing();
-            await GetCurrentLocation();
+           // await GetCurrentLocation();
         }
 
+        #region unused
         async Task GetCurrentLocation()
         {
             try
@@ -100,5 +102,6 @@ namespace MVVMPlaceDemo
             }
         
     }
+        #endregion
     }
 }

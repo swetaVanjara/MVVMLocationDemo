@@ -57,5 +57,6 @@ namespace MVVMPlaceDemo.Droid.Services
 
 			return StartCommandResult.Sticky;
 		}
+
 	}
 }
